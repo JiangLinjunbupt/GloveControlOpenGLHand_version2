@@ -1,6 +1,5 @@
 #include"APSO.h"   //使用APSO::
 #include <random>
-
 //void  APSO::getBestPosByEvolve()
 //{
 //	default_random_engine e;
@@ -77,6 +76,17 @@
 //		it++;
 //	} // end while
 //}
+
+
+float APSO::sign(float x)
+{
+	if (x > 0)
+		return 1.0f;
+	else if (x == 0)
+		return 0.0f;
+	else
+		return -1.0f;
+}
 void  APSO::getBestPosByEvolve()
 {
 
@@ -211,16 +221,45 @@ void  APSO::getBestPosByEvolve()
 
 void APSO::swarmInit()
 {
-
+	default_random_engine e_init;
+	uniform_real_distribution<float> u(-0.5, 0.5);
+	uniform_real_distribution<float> u2(0, 1);
 	CParticle_swarm[0]->particleInit(posit_initializer);
 	float* recommend = new float[dimension];
+
 	for (int i = 1; i < population; i++)
 	{
-		for (int v = 0; v < dimension; v++)
+		if (i < 2*population / 5)
 		{
-			//这里我准备使用均匀撒点来做初始化
-			recommend[v] = APSO_lowerBound[v] + (float)i*(APSO_upperBound[v] - APSO_lowerBound[v]) / (float)population;
+			for (int dim = 0; dim < dimension; dim++)
+			{
+				//这里我准备使用均匀撒点来做初始化
+				//recommend[v] = APSO_lowerBound[v] + (float)i*(APSO_upperBound[v] - APSO_lowerBound[v]) / (float)population;
+				float rand_tmp = u(e_init);
+				recommend[dim] = posit_initializer[dim] + (APSO_upperBound[dim] - APSO_lowerBound[dim])*sign(rand_tmp)*powf(fabs(rand_tmp), 1.02);
+			}
 		}
+		else if(i < 4*population / 5)
+		{
+			for (int dim = 0; dim < dimension; dim++)
+			{
+				//这里我准备使用均匀撒点来做初始化
+				//recommend[v] = APSO_lowerBound[v] + (float)i*(APSO_upperBound[v] - APSO_lowerBound[v]) / (float)population;
+				float rand_tmp = u(e_init);
+				recommend[dim] = (APSO_upperBound[dim] + APSO_lowerBound[dim])/2.0f + (APSO_upperBound[dim] - APSO_lowerBound[dim])*sign(rand_tmp)*powf(fabs(rand_tmp), 1.02);
+			}
+		}
+		else
+		{
+			for (int dim = 0; dim < dimension; dim++)
+			{
+				//这里我准备使用均匀撒点来做初始化
+				//recommend[v] = APSO_lowerBound[v] + (float)i*(APSO_upperBound[v] - APSO_lowerBound[v]) / (float)population;
+
+				recommend[dim] = APSO_lowerBound[dim] + (APSO_upperBound[dim] - APSO_lowerBound[dim])*u2(e_init);
+			}
+		}
+
 		CParticle_swarm[i]->particleInit(recommend);
 	}
 	delete[]recommend;
@@ -264,6 +303,7 @@ float APSO::fCalculate(int mode)
 				float tmp = 0;
 				for (int k = 0; k < dimension; k++)
 				{
+					//cout << "i is:"<<i<<"  "<<CParticle_swarm[i]->position[k] << "   " <<"j is:"<<j<<" "<< CParticle_swarm[j]->position[k] << endl;
 					tmp += (CParticle_swarm[i]->position[k] - CParticle_swarm[j]->position[k])*(CParticle_swarm[i]->position[k] - CParticle_swarm[j]->position[k]);
 				}
 				a[i][j] = sqrt(tmp);

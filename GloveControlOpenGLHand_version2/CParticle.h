@@ -71,7 +71,7 @@ public:
 			initPosition[i] = initpose[i];
 			ParticlerangeLow[i] = Low[i];
 			ParticlerangeUp[i] = Up[i];
-			Vmax[i] = (ParticlerangeUp[i] - ParticlerangeLow[i]) / 4.0f;   /*论文Adaptive particle swarm optimization，IEEE Transactions中采用的值*/
+			Vmax[i] = (ParticlerangeUp[i] - ParticlerangeLow[i]) * 0.15f;   /*论文Adaptive particle swarm optimization，IEEE Transactions中采用的值*/
 		}
 	};
 	void  get_objective_func()

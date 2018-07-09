@@ -1,3 +1,4 @@
+#define NDEBUG
 #include "GL/freeglut.h"         //OpenGL的头文件Includ顺序会导致出现编译错误
 #include <windows.h>
 #include <string.h>

@@ -3,24 +3,22 @@
 #include <random>
 void CParticle::particleInit(const float* posit)    /*初始位置、初始速度、fitness = 0、个体极值点设为自身、fitness_pbest = -DBL_MAX*/
 {
+	default_random_engine e;
+	uniform_real_distribution<float> u(0, 1);
 	/*修正position各维度值，使落在预设的参数取值范围内*/
 	for (int i = 0; i != dimension; i++)
 	{
-		if (posit[i] < ParticlerangeLow[i])
-		{
-			position[i] = ParticlerangeLow[i];
-		}
-		else if (posit[i] > ParticlerangeUp[i])
-		{
-			position[i] = ParticlerangeUp[i];
-		}
-		else
-		{
-			position[i] = posit[i];
-		}
 
-		velocity[i] = (2 * ((float)(rand() % 1001) / 1000.0) - 1)*Vmax[i];
+		position[i] = posit[i];
+		if (position[i] < ParticlerangeLow[i]) { position[i] = ParticlerangeLow[i]; }
+		if (position[i] > ParticlerangeUp[i]) { position[i] = ParticlerangeUp[i]; }
+
 		pbest[i] = position[i];
+
+		//velocity[i] = (2 * ((float)(rand() % 1001) / 1000.0) - 1)*Vmax[i];
+		velocity[i] = (ParticlerangeUp[i] - ParticlerangeLow[i])*u(e) - (position[i] - ParticlerangeLow[i]);
+		if (velocity[i] > Vmax[i]) { velocity[i] = Vmax[i]; }
+		if (velocity[i] < -1.0*Vmax[i]) { velocity[i] = -1.0*Vmax[i]; };
 	}
 
 	fitness_pbest = -FLT_MAX;

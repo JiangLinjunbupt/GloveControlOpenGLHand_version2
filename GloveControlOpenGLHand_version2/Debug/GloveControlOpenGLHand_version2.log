@@ -1,0 +1,579 @@
+﻿  main.cpp
+d:\opencv3.2\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.2\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3.2\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\glovecontrolopenglhand_version2\glovecontrolopenglhand_version2\projection.h(92): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\glovecontrolopenglhand_version2\glovecontrolopenglhand_version2\projection.h(93): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\glovecontrolopenglhand_version2\glovecontrolopenglhand_version2\projection.h(94): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\glovecontrolopenglhand_version2\glovecontrolopenglhand_version2\projection.h(181): warning C4018: “<”: 有符号/无符号不匹配
+d:\glovecontrolopenglhand_version2\glovecontrolopenglhand_version2\projection.h(192): warning C4018: “<”: 有符号/无符号不匹配
+d:\glovecontrolopenglhand_version2\glovecontrolopenglhand_version2\pointcloud.h(33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\vs2015\vc\include\gl\glut.h(134): warning C4005: “GLUT_RGB”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(186): note: 参见“GLUT_RGB”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(135): warning C4005: “GLUT_RGBA”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(187): note: 参见“GLUT_RGBA”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(136): warning C4005: “GLUT_INDEX”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(188): note: 参见“GLUT_INDEX”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(137): warning C4005: “GLUT_SINGLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(189): note: 参见“GLUT_SINGLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(138): warning C4005: “GLUT_DOUBLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(190): note: 参见“GLUT_DOUBLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(139): warning C4005: “GLUT_ACCUM”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(191): note: 参见“GLUT_ACCUM”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(140): warning C4005: “GLUT_ALPHA”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(192): note: 参见“GLUT_ALPHA”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(141): warning C4005: “GLUT_DEPTH”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(193): note: 参见“GLUT_DEPTH”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(142): warning C4005: “GLUT_STENCIL”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(194): note: 参见“GLUT_STENCIL”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(144): warning C4005: “GLUT_MULTISAMPLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(195): note: 参见“GLUT_MULTISAMPLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(145): warning C4005: “GLUT_STEREO”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(196): note: 参见“GLUT_STEREO”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(148): warning C4005: “GLUT_LUMINANCE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(197): note: 参见“GLUT_LUMINANCE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(152): warning C4005: “GLUT_LEFT_BUTTON”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(175): note: 参见“GLUT_LEFT_BUTTON”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(153): warning C4005: “GLUT_MIDDLE_BUTTON”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(176): note: 参见“GLUT_MIDDLE_BUTTON”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(154): warning C4005: “GLUT_RIGHT_BUTTON”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(177): note: 参见“GLUT_RIGHT_BUTTON”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(157): warning C4005: “GLUT_DOWN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(178): note: 参见“GLUT_DOWN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(158): warning C4005: “GLUT_UP”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(179): note: 参见“GLUT_UP”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(162): warning C4005: “GLUT_KEY_F1”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(150): note: 参见“GLUT_KEY_F1”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(163): warning C4005: “GLUT_KEY_F2”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(151): note: 参见“GLUT_KEY_F2”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(164): warning C4005: “GLUT_KEY_F3”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(152): note: 参见“GLUT_KEY_F3”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(165): warning C4005: “GLUT_KEY_F4”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(153): note: 参见“GLUT_KEY_F4”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(166): warning C4005: “GLUT_KEY_F5”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(154): note: 参见“GLUT_KEY_F5”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(167): warning C4005: “GLUT_KEY_F6”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(155): note: 参见“GLUT_KEY_F6”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(168): warning C4005: “GLUT_KEY_F7”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(156): note: 参见“GLUT_KEY_F7”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(169): warning C4005: “GLUT_KEY_F8”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(157): note: 参见“GLUT_KEY_F8”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(170): warning C4005: “GLUT_KEY_F9”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(158): note: 参见“GLUT_KEY_F9”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(171): warning C4005: “GLUT_KEY_F10”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(159): note: 参见“GLUT_KEY_F10”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(172): warning C4005: “GLUT_KEY_F11”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(160): note: 参见“GLUT_KEY_F11”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(173): warning C4005: “GLUT_KEY_F12”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(161): note: 参见“GLUT_KEY_F12”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(175): warning C4005: “GLUT_KEY_LEFT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(162): note: 参见“GLUT_KEY_LEFT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(176): warning C4005: “GLUT_KEY_UP”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(163): note: 参见“GLUT_KEY_UP”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(177): warning C4005: “GLUT_KEY_RIGHT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(164): note: 参见“GLUT_KEY_RIGHT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(178): warning C4005: “GLUT_KEY_DOWN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(165): note: 参见“GLUT_KEY_DOWN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(179): warning C4005: “GLUT_KEY_PAGE_UP”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(166): note: 参见“GLUT_KEY_PAGE_UP”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(180): warning C4005: “GLUT_KEY_PAGE_DOWN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(167): note: 参见“GLUT_KEY_PAGE_DOWN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(181): warning C4005: “GLUT_KEY_HOME”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(168): note: 参见“GLUT_KEY_HOME”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(182): warning C4005: “GLUT_KEY_END”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(169): note: 参见“GLUT_KEY_END”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(183): warning C4005: “GLUT_KEY_INSERT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(170): note: 参见“GLUT_KEY_INSERT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(187): warning C4005: “GLUT_LEFT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(180): note: 参见“GLUT_LEFT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(188): warning C4005: “GLUT_ENTERED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(181): note: 参见“GLUT_ENTERED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(191): warning C4005: “GLUT_MENU_NOT_IN_USE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(202): note: 参见“GLUT_MENU_NOT_IN_USE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(192): warning C4005: “GLUT_MENU_IN_USE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(203): note: 参见“GLUT_MENU_IN_USE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(195): warning C4005: “GLUT_NOT_VISIBLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(204): note: 参见“GLUT_NOT_VISIBLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(196): warning C4005: “GLUT_VISIBLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(205): note: 参见“GLUT_VISIBLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(199): warning C4005: “GLUT_HIDDEN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(206): note: 参见“GLUT_HIDDEN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(200): warning C4005: “GLUT_FULLY_RETAINED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(207): note: 参见“GLUT_FULLY_RETAINED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(201): warning C4005: “GLUT_PARTIALLY_RETAINED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(208): note: 参见“GLUT_PARTIALLY_RETAINED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(202): warning C4005: “GLUT_FULLY_COVERED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(209): note: 参见“GLUT_FULLY_COVERED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(205): warning C4005: “GLUT_RED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(383): note: 参见“GLUT_RED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(206): warning C4005: “GLUT_GREEN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(384): note: 参见“GLUT_GREEN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(207): warning C4005: “GLUT_BLUE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(385): note: 参见“GLUT_BLUE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(210): warning C4005: “GLUT_NORMAL”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(343): note: 参见“GLUT_NORMAL”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(211): warning C4005: “GLUT_OVERLAY”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(344): note: 参见“GLUT_OVERLAY”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(215): warning C4005: “GLUT_STROKE_ROMAN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(217): note: 参见“GLUT_STROKE_ROMAN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(216): warning C4005: “GLUT_STROKE_MONO_ROMAN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(218): note: 参见“GLUT_STROKE_MONO_ROMAN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(219): warning C4005: “GLUT_BITMAP_9_BY_15”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(219): note: 参见“GLUT_BITMAP_9_BY_15”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(220): warning C4005: “GLUT_BITMAP_8_BY_13”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(220): note: 参见“GLUT_BITMAP_8_BY_13”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(221): warning C4005: “GLUT_BITMAP_TIMES_ROMAN_10”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(221): note: 参见“GLUT_BITMAP_TIMES_ROMAN_10”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(222): warning C4005: “GLUT_BITMAP_TIMES_ROMAN_24”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(222): note: 参见“GLUT_BITMAP_TIMES_ROMAN_24”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(224): warning C4005: “GLUT_BITMAP_HELVETICA_10”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(223): note: 参见“GLUT_BITMAP_HELVETICA_10”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(225): warning C4005: “GLUT_BITMAP_HELVETICA_12”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(224): note: 参见“GLUT_BITMAP_HELVETICA_12”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(226): warning C4005: “GLUT_BITMAP_HELVETICA_18”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(225): note: 参见“GLUT_BITMAP_HELVETICA_18”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(259): warning C4005: “GLUT_WINDOW_X”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(257): note: 参见“GLUT_WINDOW_X”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(260): warning C4005: “GLUT_WINDOW_Y”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(258): note: 参见“GLUT_WINDOW_Y”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(261): warning C4005: “GLUT_WINDOW_WIDTH”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(259): note: 参见“GLUT_WINDOW_WIDTH”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(262): warning C4005: “GLUT_WINDOW_HEIGHT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(260): note: 参见“GLUT_WINDOW_HEIGHT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(263): warning C4005: “GLUT_WINDOW_BUFFER_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(261): note: 参见“GLUT_WINDOW_BUFFER_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(264): warning C4005: “GLUT_WINDOW_STENCIL_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(262): note: 参见“GLUT_WINDOW_STENCIL_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(265): warning C4005: “GLUT_WINDOW_DEPTH_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(263): note: 参见“GLUT_WINDOW_DEPTH_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(266): warning C4005: “GLUT_WINDOW_RED_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(264): note: 参见“GLUT_WINDOW_RED_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(267): warning C4005: “GLUT_WINDOW_GREEN_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(265): note: 参见“GLUT_WINDOW_GREEN_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(268): warning C4005: “GLUT_WINDOW_BLUE_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(266): note: 参见“GLUT_WINDOW_BLUE_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(269): warning C4005: “GLUT_WINDOW_ALPHA_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(267): note: 参见“GLUT_WINDOW_ALPHA_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(270): warning C4005: “GLUT_WINDOW_ACCUM_RED_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(268): note: 参见“GLUT_WINDOW_ACCUM_RED_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(271): warning C4005: “GLUT_WINDOW_ACCUM_GREEN_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(269): note: 参见“GLUT_WINDOW_ACCUM_GREEN_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(272): warning C4005: “GLUT_WINDOW_ACCUM_BLUE_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(270): note: 参见“GLUT_WINDOW_ACCUM_BLUE_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(273): warning C4005: “GLUT_WINDOW_ACCUM_ALPHA_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(271): note: 参见“GLUT_WINDOW_ACCUM_ALPHA_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(274): warning C4005: “GLUT_WINDOW_DOUBLEBUFFER”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(272): note: 参见“GLUT_WINDOW_DOUBLEBUFFER”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(275): warning C4005: “GLUT_WINDOW_RGBA”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(273): note: 参见“GLUT_WINDOW_RGBA”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(276): warning C4005: “GLUT_WINDOW_PARENT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(274): note: 参见“GLUT_WINDOW_PARENT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(277): warning C4005: “GLUT_WINDOW_NUM_CHILDREN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(275): note: 参见“GLUT_WINDOW_NUM_CHILDREN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(278): warning C4005: “GLUT_WINDOW_COLORMAP_SIZE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(276): note: 参见“GLUT_WINDOW_COLORMAP_SIZE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(280): warning C4005: “GLUT_WINDOW_NUM_SAMPLES”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(277): note: 参见“GLUT_WINDOW_NUM_SAMPLES”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(281): warning C4005: “GLUT_WINDOW_STEREO”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(278): note: 参见“GLUT_WINDOW_STEREO”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(284): warning C4005: “GLUT_WINDOW_CURSOR”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(279): note: 参见“GLUT_WINDOW_CURSOR”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(286): warning C4005: “GLUT_SCREEN_WIDTH”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(281): note: 参见“GLUT_SCREEN_WIDTH”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(287): warning C4005: “GLUT_SCREEN_HEIGHT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(282): note: 参见“GLUT_SCREEN_HEIGHT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(288): warning C4005: “GLUT_SCREEN_WIDTH_MM”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(283): note: 参见“GLUT_SCREEN_WIDTH_MM”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(289): warning C4005: “GLUT_SCREEN_HEIGHT_MM”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(284): note: 参见“GLUT_SCREEN_HEIGHT_MM”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(290): warning C4005: “GLUT_MENU_NUM_ITEMS”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(285): note: 参见“GLUT_MENU_NUM_ITEMS”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(291): warning C4005: “GLUT_DISPLAY_MODE_POSSIBLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(286): note: 参见“GLUT_DISPLAY_MODE_POSSIBLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(292): warning C4005: “GLUT_INIT_WINDOW_X”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(287): note: 参见“GLUT_INIT_WINDOW_X”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(293): warning C4005: “GLUT_INIT_WINDOW_Y”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(288): note: 参见“GLUT_INIT_WINDOW_Y”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(294): warning C4005: “GLUT_INIT_WINDOW_WIDTH”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(289): note: 参见“GLUT_INIT_WINDOW_WIDTH”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(295): warning C4005: “GLUT_INIT_WINDOW_HEIGHT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(290): note: 参见“GLUT_INIT_WINDOW_HEIGHT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(296): warning C4005: “GLUT_INIT_DISPLAY_MODE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(291): note: 参见“GLUT_INIT_DISPLAY_MODE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(298): warning C4005: “GLUT_ELAPSED_TIME”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(292): note: 参见“GLUT_ELAPSED_TIME”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(301): warning C4005: “GLUT_WINDOW_FORMAT_ID”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(293): note: 参见“GLUT_WINDOW_FORMAT_ID”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(306): warning C4005: “GLUT_HAS_KEYBOARD”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(298): note: 参见“GLUT_HAS_KEYBOARD”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(307): warning C4005: “GLUT_HAS_MOUSE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(299): note: 参见“GLUT_HAS_MOUSE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(308): warning C4005: “GLUT_HAS_SPACEBALL”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(300): note: 参见“GLUT_HAS_SPACEBALL”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(309): warning C4005: “GLUT_HAS_DIAL_AND_BUTTON_BOX”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(301): note: 参见“GLUT_HAS_DIAL_AND_BUTTON_BOX”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(310): warning C4005: “GLUT_HAS_TABLET”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(302): note: 参见“GLUT_HAS_TABLET”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(311): warning C4005: “GLUT_NUM_MOUSE_BUTTONS”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(303): note: 参见“GLUT_NUM_MOUSE_BUTTONS”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(312): warning C4005: “GLUT_NUM_SPACEBALL_BUTTONS”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(304): note: 参见“GLUT_NUM_SPACEBALL_BUTTONS”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(313): warning C4005: “GLUT_NUM_BUTTON_BOX_BUTTONS”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(305): note: 参见“GLUT_NUM_BUTTON_BOX_BUTTONS”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(314): warning C4005: “GLUT_NUM_DIALS”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(306): note: 参见“GLUT_NUM_DIALS”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(315): warning C4005: “GLUT_NUM_TABLET_BUTTONS”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(307): note: 参见“GLUT_NUM_TABLET_BUTTONS”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(318): warning C4005: “GLUT_DEVICE_IGNORE_KEY_REPEAT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(308): note: 参见“GLUT_DEVICE_IGNORE_KEY_REPEAT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(319): warning C4005: “GLUT_DEVICE_KEY_REPEAT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(309): note: 参见“GLUT_DEVICE_KEY_REPEAT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(320): warning C4005: “GLUT_HAS_JOYSTICK”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(310): note: 参见“GLUT_HAS_JOYSTICK”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(321): warning C4005: “GLUT_OWNS_JOYSTICK”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(311): note: 参见“GLUT_OWNS_JOYSTICK”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(322): warning C4005: “GLUT_JOYSTICK_BUTTONS”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(312): note: 参见“GLUT_JOYSTICK_BUTTONS”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(323): warning C4005: “GLUT_JOYSTICK_AXES”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(313): note: 参见“GLUT_JOYSTICK_AXES”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(324): warning C4005: “GLUT_JOYSTICK_POLL_RATE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(314): note: 参见“GLUT_JOYSTICK_POLL_RATE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(329): warning C4005: “GLUT_OVERLAY_POSSIBLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(319): note: 参见“GLUT_OVERLAY_POSSIBLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(330): warning C4005: “GLUT_LAYER_IN_USE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(320): note: 参见“GLUT_LAYER_IN_USE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(331): warning C4005: “GLUT_HAS_OVERLAY”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(321): note: 参见“GLUT_HAS_OVERLAY”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(332): warning C4005: “GLUT_TRANSPARENT_INDEX”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(322): note: 参见“GLUT_TRANSPARENT_INDEX”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(333): warning C4005: “GLUT_NORMAL_DAMAGED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(323): note: 参见“GLUT_NORMAL_DAMAGED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(334): warning C4005: “GLUT_OVERLAY_DAMAGED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(324): note: 参见“GLUT_OVERLAY_DAMAGED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(338): warning C4005: “GLUT_VIDEO_RESIZE_POSSIBLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(329): note: 参见“GLUT_VIDEO_RESIZE_POSSIBLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(339): warning C4005: “GLUT_VIDEO_RESIZE_IN_USE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(330): note: 参见“GLUT_VIDEO_RESIZE_IN_USE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(340): warning C4005: “GLUT_VIDEO_RESIZE_X_DELTA”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(331): note: 参见“GLUT_VIDEO_RESIZE_X_DELTA”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(341): warning C4005: “GLUT_VIDEO_RESIZE_Y_DELTA”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(332): note: 参见“GLUT_VIDEO_RESIZE_Y_DELTA”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(342): warning C4005: “GLUT_VIDEO_RESIZE_WIDTH_DELTA”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(333): note: 参见“GLUT_VIDEO_RESIZE_WIDTH_DELTA”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(343): warning C4005: “GLUT_VIDEO_RESIZE_HEIGHT_DELTA”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(334): note: 参见“GLUT_VIDEO_RESIZE_HEIGHT_DELTA”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(344): warning C4005: “GLUT_VIDEO_RESIZE_X”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(335): note: 参见“GLUT_VIDEO_RESIZE_X”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(345): warning C4005: “GLUT_VIDEO_RESIZE_Y”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(336): note: 参见“GLUT_VIDEO_RESIZE_Y”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(346): warning C4005: “GLUT_VIDEO_RESIZE_WIDTH”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(337): note: 参见“GLUT_VIDEO_RESIZE_WIDTH”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(347): warning C4005: “GLUT_VIDEO_RESIZE_HEIGHT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(338): note: 参见“GLUT_VIDEO_RESIZE_HEIGHT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(355): warning C4005: “GLUT_ACTIVE_SHIFT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(349): note: 参见“GLUT_ACTIVE_SHIFT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(356): warning C4005: “GLUT_ACTIVE_CTRL”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(350): note: 参见“GLUT_ACTIVE_CTRL”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(357): warning C4005: “GLUT_ACTIVE_ALT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(351): note: 参见“GLUT_ACTIVE_ALT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(361): warning C4005: “GLUT_CURSOR_RIGHT_ARROW”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(356): note: 参见“GLUT_CURSOR_RIGHT_ARROW”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(362): warning C4005: “GLUT_CURSOR_LEFT_ARROW”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(357): note: 参见“GLUT_CURSOR_LEFT_ARROW”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(364): warning C4005: “GLUT_CURSOR_INFO”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(358): note: 参见“GLUT_CURSOR_INFO”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(365): warning C4005: “GLUT_CURSOR_DESTROY”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(359): note: 参见“GLUT_CURSOR_DESTROY”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(366): warning C4005: “GLUT_CURSOR_HELP”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(360): note: 参见“GLUT_CURSOR_HELP”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(367): warning C4005: “GLUT_CURSOR_CYCLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(361): note: 参见“GLUT_CURSOR_CYCLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(368): warning C4005: “GLUT_CURSOR_SPRAY”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(362): note: 参见“GLUT_CURSOR_SPRAY”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(369): warning C4005: “GLUT_CURSOR_WAIT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(363): note: 参见“GLUT_CURSOR_WAIT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(370): warning C4005: “GLUT_CURSOR_TEXT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(364): note: 参见“GLUT_CURSOR_TEXT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(371): warning C4005: “GLUT_CURSOR_CROSSHAIR”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(365): note: 参见“GLUT_CURSOR_CROSSHAIR”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(373): warning C4005: “GLUT_CURSOR_UP_DOWN”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(366): note: 参见“GLUT_CURSOR_UP_DOWN”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(374): warning C4005: “GLUT_CURSOR_LEFT_RIGHT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(367): note: 参见“GLUT_CURSOR_LEFT_RIGHT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(376): warning C4005: “GLUT_CURSOR_TOP_SIDE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(368): note: 参见“GLUT_CURSOR_TOP_SIDE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(377): warning C4005: “GLUT_CURSOR_BOTTOM_SIDE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(369): note: 参见“GLUT_CURSOR_BOTTOM_SIDE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(378): warning C4005: “GLUT_CURSOR_LEFT_SIDE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(370): note: 参见“GLUT_CURSOR_LEFT_SIDE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(379): warning C4005: “GLUT_CURSOR_RIGHT_SIDE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(371): note: 参见“GLUT_CURSOR_RIGHT_SIDE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(380): warning C4005: “GLUT_CURSOR_TOP_LEFT_CORNER”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(372): note: 参见“GLUT_CURSOR_TOP_LEFT_CORNER”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(381): warning C4005: “GLUT_CURSOR_TOP_RIGHT_CORNER”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(373): note: 参见“GLUT_CURSOR_TOP_RIGHT_CORNER”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(382): warning C4005: “GLUT_CURSOR_BOTTOM_RIGHT_CORNER”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(374): note: 参见“GLUT_CURSOR_BOTTOM_RIGHT_CORNER”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(383): warning C4005: “GLUT_CURSOR_BOTTOM_LEFT_CORNER”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(375): note: 参见“GLUT_CURSOR_BOTTOM_LEFT_CORNER”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(385): warning C4005: “GLUT_CURSOR_INHERIT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(376): note: 参见“GLUT_CURSOR_INHERIT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(387): warning C4005: “GLUT_CURSOR_NONE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(377): note: 参见“GLUT_CURSOR_NONE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(389): warning C4005: “GLUT_CURSOR_FULL_CROSSHAIR”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(378): note: 参见“GLUT_CURSOR_FULL_CROSSHAIR”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(394): warning C4273: “glutInitDisplayMode”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(416): note: 参见“glutInitDisplayMode”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(396): warning C4273: “glutInitDisplayString”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(417): note: 参见“glutInitDisplayString”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(398): warning C4273: “glutInitWindowPosition”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(414): note: 参见“glutInitWindowPosition”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(399): warning C4273: “glutInitWindowSize”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(415): note: 参见“glutInitWindowSize”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(400): warning C4273: “glutMainLoop”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(422): note: 参见“glutMainLoop”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(404): warning C4273: “glutCreateSubWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(428): note: 参见“glutCreateSubWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(405): warning C4273: “glutDestroyWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(429): note: 参见“glutDestroyWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(406): warning C4273: “glutPostRedisplay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(447): note: 参见“glutPostRedisplay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(408): warning C4273: “glutPostWindowRedisplay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(446): note: 参见“glutPostWindowRedisplay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(410): warning C4273: “glutSwapBuffers”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(448): note: 参见“glutSwapBuffers”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(411): warning C4273: “glutGetWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(431): note: 参见“glutGetWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(412): warning C4273: “glutSetWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(430): note: 参见“glutSetWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(413): warning C4273: “glutSetWindowTitle”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(432): note: 参见“glutSetWindowTitle”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(414): warning C4273: “glutSetIconTitle”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(433): note: 参见“glutSetIconTitle”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(415): warning C4273: “glutPositionWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(435): note: 参见“glutPositionWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(416): warning C4273: “glutReshapeWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(434): note: 参见“glutReshapeWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(417): warning C4273: “glutPopWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(440): note: 参见“glutPopWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(418): warning C4273: “glutPushWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(439): note: 参见“glutPushWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(419): warning C4273: “glutIconifyWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(438): note: 参见“glutIconifyWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(420): warning C4273: “glutShowWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(436): note: 参见“glutShowWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(421): warning C4273: “glutHideWindow”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(437): note: 参见“glutHideWindow”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(423): warning C4273: “glutFullScreen”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(441): note: 参见“glutFullScreen”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(424): warning C4273: “glutSetCursor”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(454): note: 参见“glutSetCursor”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(426): warning C4273: “glutWarpPointer”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(453): note: 参见“glutWarpPointer”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(430): warning C4273: “glutEstablishOverlay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(459): note: 参见“glutEstablishOverlay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(431): warning C4273: “glutRemoveOverlay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(460): note: 参见“glutRemoveOverlay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(432): warning C4273: “glutUseLayer”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(461): note: 参见“glutUseLayer”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(433): warning C4273: “glutPostOverlayRedisplay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(462): note: 参见“glutPostOverlayRedisplay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(435): warning C4273: “glutPostWindowOverlayRedisplay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(463): note: 参见“glutPostWindowOverlayRedisplay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(437): warning C4273: “glutShowOverlay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(464): note: 参见“glutShowOverlay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(438): warning C4273: “glutHideOverlay”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(465): note: 参见“glutHideOverlay”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(443): warning C4273: “glutDestroyMenu”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(471): note: 参见“glutDestroyMenu”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(444): warning C4273: “glutGetMenu”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(472): note: 参见“glutGetMenu”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(445): warning C4273: “glutSetMenu”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(473): note: 参见“glutSetMenu”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(446): warning C4273: “glutAddMenuEntry”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(474): note: 参见“glutAddMenuEntry”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(447): warning C4273: “glutAddSubMenu”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(475): note: 参见“glutAddSubMenu”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(448): warning C4273: “glutChangeToMenuEntry”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(476): note: 参见“glutChangeToMenuEntry”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(449): warning C4273: “glutChangeToSubMenu”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(477): note: 参见“glutChangeToSubMenu”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(450): warning C4273: “glutRemoveMenuItem”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(478): note: 参见“glutRemoveMenuItem”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(451): warning C4273: “glutAttachMenu”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(479): note: 参见“glutAttachMenu”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(452): warning C4273: “glutDetachMenu”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(480): note: 参见“glutDetachMenu”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(455): warning C4273: “glutDisplayFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(495): note: 参见“glutDisplayFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(456): warning C4273: “glutReshapeFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(493): note: 参见“glutReshapeFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(457): warning C4273: “glutKeyboardFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(491): note: 参见“glutKeyboardFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(458): warning C4273: “glutMouseFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(496): note: 参见“glutMouseFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(459): warning C4273: “glutMotionFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(497): note: 参见“glutMotionFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(460): warning C4273: “glutPassiveMotionFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(498): note: 参见“glutPassiveMotionFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(461): warning C4273: “glutEntryFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(499): note: 参见“glutEntryFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(462): warning C4273: “glutVisibilityFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(494): note: 参见“glutVisibilityFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(463): warning C4273: “glutIdleFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(486): note: 参见“glutIdleFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(464): warning C4273: “glutTimerFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(485): note: 参见“glutTimerFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(465): warning C4273: “glutMenuStateFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(504): note: 参见“glutMenuStateFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(467): warning C4273: “glutSpecialFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(492): note: 参见“glutSpecialFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(468): warning C4273: “glutSpaceballMotionFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(509): note: 参见“glutSpaceballMotionFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(469): warning C4273: “glutSpaceballRotateFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(510): note: 参见“glutSpaceballRotateFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(470): warning C4273: “glutSpaceballButtonFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(511): note: 参见“glutSpaceballButtonFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(471): warning C4273: “glutButtonBoxFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(512): note: 参见“glutButtonBoxFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(472): warning C4273: “glutDialsFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(513): note: 参见“glutDialsFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(473): warning C4273: “glutTabletMotionFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(514): note: 参见“glutTabletMotionFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(474): warning C4273: “glutTabletButtonFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(515): note: 参见“glutTabletButtonFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(476): warning C4273: “glutMenuStatusFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(505): note: 参见“glutMenuStatusFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(477): warning C4273: “glutOverlayDisplayFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(506): note: 参见“glutOverlayDisplayFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(479): warning C4273: “glutWindowStatusFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(507): note: 参见“glutWindowStatusFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(482): warning C4273: “glutKeyboardUpFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(501): note: 参见“glutKeyboardUpFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(483): warning C4273: “glutSpecialUpFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(502): note: 参见“glutSpecialUpFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(484): warning C4273: “glutJoystickFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(503): note: 参见“glutJoystickFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(490): warning C4273: “glutSetColor”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(585): note: 参见“glutSetColor”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(491): warning C4273: “glutGetColor”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(586): note: 参见“glutGetColor”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(492): warning C4273: “glutCopyColormap”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(587): note: 参见“glutCopyColormap”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(495): warning C4273: “glutGet”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(520): note: 参见“glutGet”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(496): warning C4273: “glutDeviceGet”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(521): note: 参见“glutDeviceGet”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(499): warning C4273: “glutExtensionSupported”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(599): note: 参见“glutExtensionSupported”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(502): warning C4273: “glutGetModifiers”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(522): note: 参见“glutGetModifiers”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(503): warning C4273: “glutLayerGet”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(523): note: 参见“glutLayerGet”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(507): warning C4273: “glutBitmapCharacter”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(528): note: 参见“glutBitmapCharacter”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(508): warning C4273: “glutBitmapWidth”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(529): note: 参见“glutBitmapWidth”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(509): warning C4273: “glutStrokeCharacter”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(530): note: 参见“glutStrokeCharacter”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(510): warning C4273: “glutStrokeWidth”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(531): note: 参见“glutStrokeWidth”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(512): warning C4273: “glutBitmapLength”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(533): note: 参见“glutBitmapLength”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(513): warning C4273: “glutStrokeLength”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(534): note: 参见“glutStrokeLength”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(517): warning C4273: “glutWireSphere”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(543): note: 参见“glutWireSphere”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(518): warning C4273: “glutSolidSphere”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(544): note: 参见“glutSolidSphere”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(519): warning C4273: “glutWireCone”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(545): note: 参见“glutWireCone”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(520): warning C4273: “glutSolidCone”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(546): note: 参见“glutSolidCone”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(521): warning C4273: “glutWireCube”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(541): note: 参见“glutWireCube”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(522): warning C4273: “glutSolidCube”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(542): note: 参见“glutSolidCube”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(523): warning C4273: “glutWireTorus”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(547): note: 参见“glutWireTorus”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(524): warning C4273: “glutSolidTorus”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(548): note: 参见“glutSolidTorus”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(525): warning C4273: “glutWireDodecahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(549): note: 参见“glutWireDodecahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(526): warning C4273: “glutSolidDodecahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(550): note: 参见“glutSolidDodecahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(527): warning C4273: “glutWireTeapot”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(562): note: 参见“glutWireTeapot”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(528): warning C4273: “glutSolidTeapot”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(563): note: 参见“glutSolidTeapot”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(529): warning C4273: “glutWireOctahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(551): note: 参见“glutWireOctahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(530): warning C4273: “glutSolidOctahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(552): note: 参见“glutSolidOctahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(531): warning C4273: “glutWireTetrahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(553): note: 参见“glutWireTetrahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(532): warning C4273: “glutSolidTetrahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(554): note: 参见“glutSolidTetrahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(533): warning C4273: “glutWireIcosahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(555): note: 参见“glutWireIcosahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(534): warning C4273: “glutSolidIcosahedron”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(556): note: 参见“glutSolidIcosahedron”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(538): warning C4273: “glutVideoResizeGet”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(576): note: 参见“glutVideoResizeGet”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(539): warning C4273: “glutSetupVideoResizing”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(577): note: 参见“glutSetupVideoResizing”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(540): warning C4273: “glutStopVideoResizing”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(578): note: 参见“glutStopVideoResizing”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(541): warning C4273: “glutVideoResize”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(579): note: 参见“glutVideoResize”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(542): warning C4273: “glutVideoPan”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(580): note: 参见“glutVideoPan”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(545): warning C4273: “glutReportErrors”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(600): note: 参见“glutReportErrors”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(551): warning C4005: “GLUT_KEY_REPEAT_OFF”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(390): note: 参见“GLUT_KEY_REPEAT_OFF”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(552): warning C4005: “GLUT_KEY_REPEAT_ON”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(391): note: 参见“GLUT_KEY_REPEAT_ON”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(553): warning C4005: “GLUT_KEY_REPEAT_DEFAULT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(392): note: 参见“GLUT_KEY_REPEAT_DEFAULT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(556): warning C4005: “GLUT_JOYSTICK_BUTTON_A”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(394): note: 参见“GLUT_JOYSTICK_BUTTON_A”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(557): warning C4005: “GLUT_JOYSTICK_BUTTON_B”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(395): note: 参见“GLUT_JOYSTICK_BUTTON_B”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(558): warning C4005: “GLUT_JOYSTICK_BUTTON_C”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(396): note: 参见“GLUT_JOYSTICK_BUTTON_C”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(559): warning C4005: “GLUT_JOYSTICK_BUTTON_D”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(397): note: 参见“GLUT_JOYSTICK_BUTTON_D”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(561): warning C4273: “glutIgnoreKeyRepeat”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(592): note: 参见“glutIgnoreKeyRepeat”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(562): warning C4273: “glutSetKeyRepeat”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(593): note: 参见“glutSetKeyRepeat”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(563): warning C4273: “glutForceJoystickFunc”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(594): note: 参见“glutForceJoystickFunc”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(567): warning C4005: “GLUT_GAME_MODE_ACTIVE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(402): note: 参见“GLUT_GAME_MODE_ACTIVE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(568): warning C4005: “GLUT_GAME_MODE_POSSIBLE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(403): note: 参见“GLUT_GAME_MODE_POSSIBLE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(569): warning C4005: “GLUT_GAME_MODE_WIDTH”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(404): note: 参见“GLUT_GAME_MODE_WIDTH”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(570): warning C4005: “GLUT_GAME_MODE_HEIGHT”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(405): note: 参见“GLUT_GAME_MODE_HEIGHT”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(571): warning C4005: “GLUT_GAME_MODE_PIXEL_DEPTH”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(406): note: 参见“GLUT_GAME_MODE_PIXEL_DEPTH”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(572): warning C4005: “GLUT_GAME_MODE_REFRESH_RATE”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(407): note: 参见“GLUT_GAME_MODE_REFRESH_RATE”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(573): warning C4005: “GLUT_GAME_MODE_DISPLAY_CHANGED”: 宏重定义
+  e:\vs2015\vc\include\gl\freeglut_std.h(408): note: 参见“GLUT_GAME_MODE_DISPLAY_CHANGED”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(575): warning C4273: “glutGameModeString”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(568): note: 参见“glutGameModeString”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(576): warning C4273: “glutEnterGameMode”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(569): note: 参见“glutEnterGameMode”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(577): warning C4273: “glutLeaveGameMode”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(570): note: 参见“glutLeaveGameMode”的前一个定义
+e:\vs2015\vc\include\gl\glut.h(578): warning C4273: “glutGameModeGet”: dll 链接不一致
+  e:\vs2015\vc\include\gl\freeglut_std.h(571): note: 参见“glutGameModeGet”的前一个定义
+d:\glovecontrolopenglhand_version2\glovecontrolopenglhand_version2\main.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+  GloveControlOpenGLHand_version2.vcxproj -> D:\GloveControlOpenGLHand_version2\Debug\GloveControlOpenGLHand_version2.exe
+  GloveControlOpenGLHand_version2.vcxproj -> D:\GloveControlOpenGLHand_version2\Debug\GloveControlOpenGLHand_version2.pdb (Full PDB)

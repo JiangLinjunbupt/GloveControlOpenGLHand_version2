@@ -8,6 +8,8 @@
 #include "CParticle.h"
 #include"extern.h"
 #include"MergeSort.h"
+#include<math.h>
+#include<random>
 
 using namespace std;
 
@@ -65,5 +67,6 @@ private:
 
 	float fCalculate(int mode);
 	int fuzzyDecision(float f, int previous);
+	float sign(float x);
 
 };
